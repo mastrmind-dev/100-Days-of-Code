@@ -6,7 +6,7 @@
 
 **Thoughts:** In this HTML Page there is nothing special.
 
-**Link to work:** [HTML](#)
+**Link:** [TweetL](https://twitter.com/jatinn_r/status/1229363360736694274)
 
 ### Day 2: February 18, 2020 (HTML)
 
@@ -14,7 +14,7 @@
 
 **Thoughts:** I'm making slow progress.
 
-**Link to work:** [HTML](#)
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1229768088360570880)
 
 ### Day 3: February 19, 2020 (HTML)
 
@@ -22,7 +22,7 @@
 
 **Thoughts:** I'm making very slow progress.
 
-**Link to work:** [HTML](#)
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1230171262930104321)
 
 ### Day 4: February 20, 2020 (HTML)
 
@@ -30,7 +30,7 @@
 
 **Thoughts:** I'm going to Google to know more about Frame Tag.
 
-**Link to work:** [HTML](#)
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1230444534338904068)
 
 ### Day 5: February 21, 2020 (HTML)
 
@@ -38,7 +38,7 @@
 
 **Thoughts:** I'm feeling good.
 
-**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/jatinrao)
+**Link:** [Tweet](https://www.freecodecamp.org/jatinrao)
 
 ### Day 6: February 22, 2020 (CSS)
 
@@ -46,7 +46,7 @@
 
 **Thoughts:** I'm feeling very happy as I completed whole of CSS Basics in 3-4 hours.
 
-**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/jatinrao)
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1231023275691696128)
 
 ### Day 7: February 24, 2020 (CSS)
 
@@ -54,4 +54,4 @@
 
 **Thoughts:** I am thinking to do Applied Visual Design next.
 
-**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/jatinrao)
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1231479495716212736)
