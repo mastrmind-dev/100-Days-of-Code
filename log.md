@@ -16,7 +16,6 @@
 
 **Link to work:** [HTML](#)
 
-### Day 3: February 19, 2020 (HTML Page)
 ### Day 3: February 19, 2020 (HTML)
 
 **Today's Progress**: I learned about Tables, Inline & Block level elements in HTML.
@@ -46,5 +45,13 @@
 **Today's Progress**: I completed Basic CSS on [freeCodeCamp](https://www.freecodecamp.org/).
 
 **Thoughts:** I'm feeling very happy as I completed whole of CSS Basics in 3-4 hours.
+
+**Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/jatinrao)
+
+### Day 7: February 24, 2020 (CSS)
+
+**Today's Progress**: I learned more about CSS Properties.
+
+**Thoughts:** I am thinking to do Applied Visual Design next.
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/jatinrao)
