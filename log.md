@@ -6,7 +6,7 @@
 
 **Thoughts:** In this HTML Page there is nothing special.
 
-**Link:** [TweetL](https://twitter.com/jatinn_r/status/1229363360736694274)
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1229363360736694274)
 
 ### Day 2: February 18, 2020 (HTML)
 
@@ -38,7 +38,7 @@
 
 **Thoughts:** I'm feeling good.
 
-**Link:** [Tweet](https://www.freecodecamp.org/jatinrao)
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1230615887792820224)
 
 ### Day 6: February 22, 2020 (CSS)
 
