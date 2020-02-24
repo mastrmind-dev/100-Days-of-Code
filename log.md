@@ -48,10 +48,18 @@
 
 **Link:** [Tweet](https://twitter.com/jatinn_r/status/1231023275691696128)
 
-### Day 7: February 24, 2020 (CSS)
+### Day 7: February 23, 2020 (CSS)
 
 **Today's Progress**: I learned more about CSS Properties.
 
 **Thoughts:** I am thinking to do Applied Visual Design next.
 
 **Link:** [Tweet](https://twitter.com/jatinn_r/status/1231479495716212736)
+
+### Day 8: February 24, 2020 (Applied Visual Design)
+
+**Today's Progress**: I learned about applying visual design in Webpage.
+
+**Thoughts:** It's great feeling to learn Responsive Web Design.
+
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1231915488982306818)
