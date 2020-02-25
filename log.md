@@ -63,3 +63,11 @@
 **Thoughts:** It's great feeling to learn Responsive Web Design.
 
 **Link:** [Tweet](https://twitter.com/jatinn_r/status/1231915488982306818)
+
+### Day 9: February 25, 2020 (Applied Visual Design)
+
+**Today's Progress**: I completed 60% of Applied Visual Design.
+
+**Thoughts:** I'm going to complete 100% by tomorrow for sure.
+
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1232245269506543617)
