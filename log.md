@@ -71,3 +71,11 @@
 **Thoughts:** I'm going to complete 100% by tomorrow for sure.
 
 **Link:** [Tweet](https://twitter.com/jatinn_r/status/1232245269506543617)
+
+### Day 10: February 26, 2020 (Applied Visual Design)
+
+**Today's Progress**: I completed 80% of Applied Visual Design.
+
+**Thoughts:** I'm going to complete 100% by tomorrow for sure.
+
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1232603549047152640)
