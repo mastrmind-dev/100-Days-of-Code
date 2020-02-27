@@ -79,3 +79,11 @@
 **Thoughts:** I'm going to complete 100% by tomorrow for sure.
 
 **Link:** [Tweet](https://twitter.com/jatinn_r/status/1232603549047152640)
+
+### Day 11: February 27, 2020 (Youtube)
+
+**Today's Progress**: I watched coding videos on Youtube.
+
+**Thoughts:** It's great to code alongside coding videos.
+
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/)
