@@ -86,4 +86,12 @@
 
 **Thoughts:** It's great to code alongside coding videos.
 
-**Link:** [Tweet](https://twitter.com/jatinn_r/status/)
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1232981592559190016)
+
+### Day 12: February 28, 2020 (freeCodeCamp)
+
+**Today's Progress**: I completed Applied Visual Design from freeCodeCamp.
+
+**Thoughts:** It's great feeling.
+
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1233306193109667840)
