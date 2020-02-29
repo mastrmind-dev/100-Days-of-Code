@@ -95,3 +95,11 @@
 **Thoughts:** It's great feeling.
 
 **Link:** [Tweet](https://twitter.com/jatinn_r/status/1233306193109667840)
+
+### Day 13: February 29, 2020 (freeCodeCamp)
+
+**Today's Progress**: I started Applied Accessibility from freeCodeCamp.
+
+**Thoughts:** It's great feeling.
+
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1233788960863870977)
