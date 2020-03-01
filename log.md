@@ -103,3 +103,11 @@
 **Thoughts:** It's great feeling.
 
 **Link:** [Tweet](https://twitter.com/jatinn_r/status/1233788960863870977)
+
+### Day 14: March 1, 2020 (freeCodeCamp)
+
+**Today's Progress**: I'm learning Applied Accessibility from freeCodeCamp.
+
+**Thoughts:** I wasn't able to code.
+
+**Link:** [Tweet](https://twitter.com/jatinn_r/status/1234123074976526337)
