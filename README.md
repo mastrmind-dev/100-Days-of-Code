@@ -7,7 +7,7 @@
 * [Resources](resources.md)
 
 ## If you've decided to join:
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+1. Read because reading is very good [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
 3. **Code minimum an hour every day for the next 100 days.**
 4. Change the date in [Rules](rules.md) to the day you've started the challenge.
